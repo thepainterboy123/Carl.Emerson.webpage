@@ -1,4 +1,5 @@
-html, body {
+html, body { 
+  justify content: center;
   height: 100%;
   margin: 0;
   font-family: Arial;
@@ -13,7 +14,8 @@ p, a {
   font-size: 0.75rem;
 }
 
-img {
+img { 
+  justify content: center;
   padding-left: 30px;
   height: 350px;
   width: 550px;
@@ -65,7 +67,8 @@ ul {
   padding-left: 30px;
 }
 
-.main video {
+.main video { 
+  justify content: center;
   padding-left: 30px;
 }
 
